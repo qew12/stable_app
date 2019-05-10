@@ -5,15 +5,25 @@ INJECTED from /Users/qew/stable_app/android/app/src/main/AndroidManifest.xml:1:1
 INJECTED from /Users/qew/stable_app/android/app/src/main/AndroidManifest.xml:1:1-26:12
 INJECTED from /Users/qew/stable_app/android/app/src/main/AndroidManifest.xml:1:1-26:12
 MERGED from /Users/qew/stable_app/android/app/src/main/AndroidManifest.xml:1:1-26:12
-MERGED from [:react-native-camera-kit] /Users/qew/stable_app/node_modules/react-native-camera-kit/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-15:12
+MERGED from [:react-native-camera] /Users/qew/stable_app/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:2:1-18:12
 MERGED from [com.facebook.react:react-native:0.59.8] /Users/qew/.gradle/caches/transforms-2/files-2.1/935e703b495248979aa3bc7189be7087/AndroidManifest.xml:2:1-13:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/qew/.gradle/caches/transforms-2/files-2.1/889e03a4c1e6f7aa655257d560fbb392/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/qew/.gradle/caches/transforms-2/files-2.1/9fc1ba1e32cef3f1ed4efa8f79bad62f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] /Users/qew/.gradle/caches/transforms-2/files-2.1/da1cc3b494c5e220ee24cde198057d5d/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:exifinterface:28.0.0] /Users/qew/.gradle/caches/transforms-2/files-2.1/c74ff2a8f86f5bf02f509570a78843ba/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] /Users/qew/.gradle/caches/transforms-2/files-2.1/978e44de2efd8118106aaa14b5762147/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /Users/qew/.gradle/caches/transforms-2/files-2.1/381104271014fed741061b33c335b1e2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/qew/.gradle/caches/transforms-2/files-2.1/c09bbbcb817e8ddc8b23d311873d9f1b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/qew/.gradle/caches/transforms-2/files-2.1/52874d8dc965874d40d4bb98c8cd1e33/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/qew/.gradle/caches/transforms-2/files-2.1/bc157d71db2dd2bd936e9c61b87d8a05/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/qew/.gradle/caches/transforms-2/files-2.1/922fa10b14a30b63035ea268ee2f995d/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /Users/qew/.gradle/caches/transforms-2/files-2.1/66ce4e3dd01b0d45e756c36b6e7ecaed/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:28.0.0] /Users/qew/.gradle/caches/transforms-2/files-2.1/842c431fe36752d1314cbb5170c38933/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-fragment:28.0.0] /Users/qew/.gradle/caches/transforms-2/files-2.1/5a0d8d047798afcf3040461e675bab5e/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/qew/.gradle/caches/transforms-2/files-2.1/268072020134c3c9a3b551f1ececd121/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-core-ui:28.0.0] /Users/qew/.gradle/caches/transforms-2/files-2.1/51835fce0adf4ef680b6bee58f3bf343/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-core-utils:28.0.0] /Users/qew/.gradle/caches/transforms-2/files-2.1/1c9fd0bdf140548e4f61e4b4654e73dd/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/qew/.gradle/caches/transforms-2/files-2.1/75790cd63f086e0c4c664f2f1d65a638/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/qew/.gradle/caches/transforms-2/files-2.1/6a00c357862f5f5ee1118251778b2b14/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:loader:28.0.0] /Users/qew/.gradle/caches/transforms-2/files-2.1/7a39173eae6f8d3c8e820e7e4925ce34/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:viewpager:28.0.0] /Users/qew/.gradle/caches/transforms-2/files-2.1/42ab3d3862ea99bfe411ff3f8de0f422/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/qew/.gradle/caches/transforms-2/files-2.1/42ba2194b17db2209d8d2888bef82507/AndroidManifest.xml:17:1-22:12
@@ -71,6 +81,20 @@ MERGED from /Users/qew/stable_app/android/app/src/main/AndroidManifest.xml:6:5-2
 MERGED from /Users/qew/stable_app/android/app/src/main/AndroidManifest.xml:6:5-24:19
 MERGED from [com.facebook.react:react-native:0.59.8] /Users/qew/.gradle/caches/transforms-2/files-2.1/935e703b495248979aa3bc7189be7087/AndroidManifest.xml:11:5-20
 MERGED from [com.facebook.react:react-native:0.59.8] /Users/qew/.gradle/caches/transforms-2/files-2.1/935e703b495248979aa3bc7189be7087/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] /Users/qew/.gradle/caches/transforms-2/files-2.1/da1cc3b494c5e220ee24cde198057d5d/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] /Users/qew/.gradle/caches/transforms-2/files-2.1/da1cc3b494c5e220ee24cde198057d5d/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] /Users/qew/.gradle/caches/transforms-2/files-2.1/978e44de2efd8118106aaa14b5762147/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] /Users/qew/.gradle/caches/transforms-2/files-2.1/978e44de2efd8118106aaa14b5762147/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /Users/qew/.gradle/caches/transforms-2/files-2.1/381104271014fed741061b33c335b1e2/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /Users/qew/.gradle/caches/transforms-2/files-2.1/381104271014fed741061b33c335b1e2/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/qew/.gradle/caches/transforms-2/files-2.1/52874d8dc965874d40d4bb98c8cd1e33/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/qew/.gradle/caches/transforms-2/files-2.1/52874d8dc965874d40d4bb98c8cd1e33/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/qew/.gradle/caches/transforms-2/files-2.1/bc157d71db2dd2bd936e9c61b87d8a05/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/qew/.gradle/caches/transforms-2/files-2.1/bc157d71db2dd2bd936e9c61b87d8a05/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/qew/.gradle/caches/transforms-2/files-2.1/922fa10b14a30b63035ea268ee2f995d/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/qew/.gradle/caches/transforms-2/files-2.1/922fa10b14a30b63035ea268ee2f995d/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /Users/qew/.gradle/caches/transforms-2/files-2.1/66ce4e3dd01b0d45e756c36b6e7ecaed/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /Users/qew/.gradle/caches/transforms-2/files-2.1/66ce4e3dd01b0d45e756c36b6e7ecaed/AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:support-compat:28.0.0] /Users/qew/.gradle/caches/transforms-2/files-2.1/1db4b88a067efd7b10d5ff874ab4d74b/AndroidManifest.xml:22:5-94
 MERGED from [com.android.support:support-compat:28.0.0] /Users/qew/.gradle/caches/transforms-2/files-2.1/1db4b88a067efd7b10d5ff874ab4d74b/AndroidManifest.xml:22:5-94
 MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/qew/.gradle/caches/transforms-2/files-2.1/4c3efdbb4a2f261fa13f8b8be5d43400/AndroidManifest.xml:22:5-23:19
@@ -131,14 +155,32 @@ uses-sdk
 INJECTED from /Users/qew/stable_app/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/qew/stable_app/android/app/src/main/AndroidManifest.xml
 INJECTED from /Users/qew/stable_app/android/app/src/main/AndroidManifest.xml
-MERGED from [:react-native-camera-kit] /Users/qew/stable_app/node_modules/react-native-camera-kit/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-camera-kit] /Users/qew/stable_app/node_modules/react-native-camera-kit/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-camera] /Users/qew/stable_app/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-camera] /Users/qew/stable_app/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.react:react-native:0.59.8] /Users/qew/.gradle/caches/transforms-2/files-2.1/935e703b495248979aa3bc7189be7087/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.59.8] /Users/qew/.gradle/caches/transforms-2/files-2.1/935e703b495248979aa3bc7189be7087/AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/qew/.gradle/caches/transforms-2/files-2.1/889e03a4c1e6f7aa655257d560fbb392/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/qew/.gradle/caches/transforms-2/files-2.1/889e03a4c1e6f7aa655257d560fbb392/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/qew/.gradle/caches/transforms-2/files-2.1/9fc1ba1e32cef3f1ed4efa8f79bad62f/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/qew/.gradle/caches/transforms-2/files-2.1/9fc1ba1e32cef3f1ed4efa8f79bad62f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] /Users/qew/.gradle/caches/transforms-2/files-2.1/da1cc3b494c5e220ee24cde198057d5d/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] /Users/qew/.gradle/caches/transforms-2/files-2.1/da1cc3b494c5e220ee24cde198057d5d/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:exifinterface:28.0.0] /Users/qew/.gradle/caches/transforms-2/files-2.1/c74ff2a8f86f5bf02f509570a78843ba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:28.0.0] /Users/qew/.gradle/caches/transforms-2/files-2.1/c74ff2a8f86f5bf02f509570a78843ba/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] /Users/qew/.gradle/caches/transforms-2/files-2.1/978e44de2efd8118106aaa14b5762147/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] /Users/qew/.gradle/caches/transforms-2/files-2.1/978e44de2efd8118106aaa14b5762147/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /Users/qew/.gradle/caches/transforms-2/files-2.1/381104271014fed741061b33c335b1e2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /Users/qew/.gradle/caches/transforms-2/files-2.1/381104271014fed741061b33c335b1e2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/qew/.gradle/caches/transforms-2/files-2.1/c09bbbcb817e8ddc8b23d311873d9f1b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/qew/.gradle/caches/transforms-2/files-2.1/c09bbbcb817e8ddc8b23d311873d9f1b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/qew/.gradle/caches/transforms-2/files-2.1/52874d8dc965874d40d4bb98c8cd1e33/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/qew/.gradle/caches/transforms-2/files-2.1/52874d8dc965874d40d4bb98c8cd1e33/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/qew/.gradle/caches/transforms-2/files-2.1/bc157d71db2dd2bd936e9c61b87d8a05/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/qew/.gradle/caches/transforms-2/files-2.1/bc157d71db2dd2bd936e9c61b87d8a05/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/qew/.gradle/caches/transforms-2/files-2.1/922fa10b14a30b63035ea268ee2f995d/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/qew/.gradle/caches/transforms-2/files-2.1/922fa10b14a30b63035ea268ee2f995d/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /Users/qew/.gradle/caches/transforms-2/files-2.1/66ce4e3dd01b0d45e756c36b6e7ecaed/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /Users/qew/.gradle/caches/transforms-2/files-2.1/66ce4e3dd01b0d45e756c36b6e7ecaed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/qew/.gradle/caches/transforms-2/files-2.1/842c431fe36752d1314cbb5170c38933/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/qew/.gradle/caches/transforms-2/files-2.1/842c431fe36752d1314cbb5170c38933/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-fragment:28.0.0] /Users/qew/.gradle/caches/transforms-2/files-2.1/5a0d8d047798afcf3040461e675bab5e/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-fragment:28.0.0] /Users/qew/.gradle/caches/transforms-2/files-2.1/5a0d8d047798afcf3040461e675bab5e/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/qew/.gradle/caches/transforms-2/files-2.1/268072020134c3c9a3b551f1ececd121/AndroidManifest.xml:20:5-44
@@ -149,6 +191,8 @@ MERGED from [com.android.support:support-core-utils:28.0.0] /Users/qew/.gradle/c
 MERGED from [com.android.support:support-core-utils:28.0.0] /Users/qew/.gradle/caches/transforms-2/files-2.1/1c9fd0bdf140548e4f61e4b4654e73dd/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/qew/.gradle/caches/transforms-2/files-2.1/75790cd63f086e0c4c664f2f1d65a638/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/qew/.gradle/caches/transforms-2/files-2.1/75790cd63f086e0c4c664f2f1d65a638/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/qew/.gradle/caches/transforms-2/files-2.1/6a00c357862f5f5ee1118251778b2b14/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/qew/.gradle/caches/transforms-2/files-2.1/6a00c357862f5f5ee1118251778b2b14/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:loader:28.0.0] /Users/qew/.gradle/caches/transforms-2/files-2.1/7a39173eae6f8d3c8e820e7e4925ce34/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:loader:28.0.0] /Users/qew/.gradle/caches/transforms-2/files-2.1/7a39173eae6f8d3c8e820e7e4925ce34/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:viewpager:28.0.0] /Users/qew/.gradle/caches/transforms-2/files-2.1/42ab3d3862ea99bfe411ff3f8de0f422/AndroidManifest.xml:20:5-44
@@ -216,14 +260,32 @@ ADDED from /Users/qew/stable_app/android/app/src/debug/AndroidManifest.xml:5:5-7
 	android:name
 		ADDED from /Users/qew/stable_app/android/app/src/debug/AndroidManifest.xml:5:22-75
 uses-permission#android.permission.CAMERA
-ADDED from [:react-native-camera-kit] /Users/qew/stable_app/node_modules/react-native-camera-kit/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-65
+ADDED from [:react-native-camera] /Users/qew/stable_app/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:9:5-65
 	android:name
-		ADDED from [:react-native-camera-kit] /Users/qew/stable_app/node_modules/react-native-camera-kit/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:22-62
-uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from [:react-native-camera-kit] /Users/qew/stable_app/node_modules/react-native-camera-kit/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-80
+		ADDED from [:react-native-camera] /Users/qew/stable_app/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:9:22-62
+uses-feature#android.hardware.camera
+ADDED from [:react-native-camera] /Users/qew/stable_app/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:11:5-13:36
+	android:required
+		ADDED from [:react-native-camera] /Users/qew/stable_app/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:13:9-33
 	android:name
-		ADDED from [:react-native-camera-kit] /Users/qew/stable_app/node_modules/react-native-camera-kit/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:22-77
-uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from [:react-native-camera-kit] /Users/qew/stable_app/node_modules/react-native-camera-kit/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-81
+		ADDED from [:react-native-camera] /Users/qew/stable_app/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:12:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from [:react-native-camera] /Users/qew/stable_app/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:14:5-16:36
+	android:required
+		ADDED from [:react-native-camera] /Users/qew/stable_app/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:16:9-33
 	android:name
-		ADDED from [:react-native-camera-kit] /Users/qew/stable_app/node_modules/react-native-camera-kit/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:22-78
+		ADDED from [:react-native-camera] /Users/qew/stable_app/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:15:9-57
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/qew/.gradle/caches/transforms-2/files-2.1/bc157d71db2dd2bd936e9c61b87d8a05/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/qew/.gradle/caches/transforms-2/files-2.1/bc157d71db2dd2bd936e9c61b87d8a05/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/qew/.gradle/caches/transforms-2/files-2.1/bc157d71db2dd2bd936e9c61b87d8a05/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/qew/.gradle/caches/transforms-2/files-2.1/bc157d71db2dd2bd936e9c61b87d8a05/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.1.0] /Users/qew/.gradle/caches/transforms-2/files-2.1/66ce4e3dd01b0d45e756c36b6e7ecaed/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.1.0] /Users/qew/.gradle/caches/transforms-2/files-2.1/66ce4e3dd01b0d45e756c36b6e7ecaed/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.1.0] /Users/qew/.gradle/caches/transforms-2/files-2.1/66ce4e3dd01b0d45e756c36b6e7ecaed/AndroidManifest.xml:24:13-58

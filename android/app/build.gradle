@@ -102,7 +102,7 @@ android {
         targetSdkVersion 28
         versionCode 1
         versionName "1.0"
-
+        missingDimensionStrategy 'react-native-camera', 'general'
         externalNativeBuild {
             cmake {
                 cppFlags "-std=c++11 -frtti -fexceptions"
@@ -126,7 +126,7 @@ android {
     }
     sourceSets {
         main {
-            jniLibs.srcDirs = ['src/main/jniLibs/']
+            jniLibs.srcDirs = ['src/main/cpp/jniLibs/']
         }
     }
     externalNativeBuild {
@@ -154,7 +154,7 @@ android {
 }
 
 dependencies {
-    implementation project(':react-native-camera-kit')
+    implementation project(':react-native-camera')
     implementation fileTree(include: ['*.jar'], dir: 'libs')
     implementation "com.android.support:appcompat-v7:${rootProject.ext.supportLibVersion}"
     implementation 'com.facebook.react:react-native:+'

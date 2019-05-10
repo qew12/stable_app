@@ -1,4 +1,4 @@
-#Fri May 10 18:03:39 MSK 2019
+#Fri May 10 20:10:46 MSK 2019
 base.0=/Users/qew/stable_app/android/app/build/intermediates/dex/debug/mergeDexDebug/out
 path.0=classes.dex
 renamed.0=classes.dex
