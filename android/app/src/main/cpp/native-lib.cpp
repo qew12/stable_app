@@ -1,10 +1,18 @@
 #include <jni.h>
-#include <string>
+#include <opencv2/opencv.hpp>
 
-extern "C" JNIEXPORT jstring JNICALL
-Java_e_qew_cpp_1sup_MainActivity_stringFromJNI(
-        JNIEnv *env,
-        jobject /* this */) {
-    std::string hello = "Hello from C++";
-    return env->NewStringUTF(hello.c_str());
+
+void preprocess(cv::Mat& image){
+    cvtColor(image, image, CV_BGR2GRAY);
+    cv::threshold(image, image, 130, 255, cv::THRESH_BINARY);
+}
+
+extern "C" {
+
+JNIEXPORT void JNICALL
+Java_e_qew_cv9_MainActivity_IncreaseContrast(JNIEnv *, jobject, jlong addrRgba) {
+    cv::Mat &src = *(cv::Mat *) addrRgba;
+    preprocess(src);
+}
+
 }

@@ -1,0 +1,3 @@
+# ninja log v5
+0	615	1557500839	CMakeFiles/native-lib.dir/native-lib.cpp.o	c9ff3529daa8d75b
+615	720	1557500839	/Users/qew/stable_app/android/app/build/intermediates/cmake/release/obj/x86/libnative-lib.so	804f258e8e83470c
