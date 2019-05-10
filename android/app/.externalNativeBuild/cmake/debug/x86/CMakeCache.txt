@@ -220,7 +220,7 @@ Project_SOURCE_DIR:STATIC=/Users/qew/stable_app/android/app/src/main/cpp
 log-lib:FILEPATH=/Users/qew/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/i686-linux-android/17/liblog.so
 
 //Dependencies for the target
-native-lib_LIB_DEPENDS:STATIC=general;/Users/qew/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/i686-linux-android/17/liblog.so;
+native-lib_LIB_DEPENDS:STATIC=general;lib_opencv;general;/Users/qew/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/i686-linux-android/17/liblog.so;
 
 
 ########################

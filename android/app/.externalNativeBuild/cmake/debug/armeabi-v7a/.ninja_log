@@ -4,3 +4,9 @@
 1	56	1557433923	build.ninja	c473f4d50177b96
 3	640	1557433923	CMakeFiles/native-lib.dir/native-lib.cpp.o	1600f548f4058d61
 640	768	1557433923	/Users/qew/stable_app/android/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so	89086c346b6b29ca
+0	86	1557500603	build.ninja	c473f4d50177b96
+0	695	1557500604	CMakeFiles/native-lib.dir/native-lib.cpp.o	1600f548f4058d61
+695	780	1557500604	/Users/qew/stable_app/android/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so	89086c346b6b29ca
+0	52	1557508217	build.ninja	c473f4d50177b96
+0	3774	1557508220	CMakeFiles/native-lib.dir/native-lib.cpp.o	66a13ad4f753082f
+3775	4052	1557508221	/Users/qew/stable_app/android/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so	f7d436c6941dea05

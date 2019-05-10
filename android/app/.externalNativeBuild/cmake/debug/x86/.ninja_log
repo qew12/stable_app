@@ -4,3 +4,9 @@
 1	61	1557433921	build.ninja	a2cda2a6384d1eb7
 2	616	1557433921	CMakeFiles/native-lib.dir/native-lib.cpp.o	31f4384b22faa898
 616	737	1557433922	/Users/qew/stable_app/android/app/build/intermediates/cmake/debug/obj/x86/libnative-lib.so	bfa4a4cd99158dbb
+0	55	1557500601	build.ninja	a2cda2a6384d1eb7
+0	571	1557500602	CMakeFiles/native-lib.dir/native-lib.cpp.o	31f4384b22faa898
+571	670	1557500602	/Users/qew/stable_app/android/app/build/intermediates/cmake/debug/obj/x86/libnative-lib.so	bfa4a4cd99158dbb
+0	57	1557508208	build.ninja	a2cda2a6384d1eb7
+0	4288	1557508212	CMakeFiles/native-lib.dir/native-lib.cpp.o	95ec37942ed9668e
+4289	4538	1557508212	/Users/qew/stable_app/android/app/build/intermediates/cmake/debug/obj/x86/libnative-lib.so	6c87851101808310
